@@ -7,7 +7,7 @@ trigger:
 - master
 
 stages:
- - stage: Eploración
+ - stage: Exploration
    pool:
      vmImage: ubuntu-latest
   
